@@ -43,7 +43,7 @@ body {
 	font-size: 1em;
 	line-height: 1.5em;
 	
-	padding-top: 80px;
+	padding-top: 130px;
 }
 .contenido {
   display: inline-block;
@@ -51,7 +51,7 @@ body {
 }
 
 header {
-	padding-top: 75px;
+	
   color: var(--colorPrimario);
   background-color:
     var(--colorPrimarioFondo);
