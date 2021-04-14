@@ -3,7 +3,7 @@ class MiFooter
   connectedCallback() {
     this.innerHTML = /* html */
       `&copy; 2021
-     Urban Becerra Luis David.`;
+     Urban Becerra Luis David`;
   }
 }
 customElements.define(
