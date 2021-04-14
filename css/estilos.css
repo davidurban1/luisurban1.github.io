@@ -9,8 +9,8 @@
    * raíz. */
   /* Propiedades de la interfaz */
   --colorPrimario: black;
-  --colorPrimarioFondo: #64f0e9;
-  --colorActive: #64f0e9;
+  --colorPrimarioFondo: #7A4E40;
+  --colorActive: 7A4E40;
   --colorContenido: rgb(255, 255, 255);
   --colorContenidoFondo: white;
   /* Propiedades para campos */
