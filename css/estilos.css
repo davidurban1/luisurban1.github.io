@@ -51,6 +51,7 @@ body {
 }
 
 header {
+	padding-top: 75px;
   color: var(--colorPrimario);
   background-color:
     var(--colorPrimarioFondo);
